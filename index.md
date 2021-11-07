@@ -1,6 +1,7 @@
 ## CTD
 
-You can use the [editor on GitHub](https://github.com/jackass0528/CTD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+C Stand as CEBU, T its TAXI, and D is DRIVER. So are you wounder why is use Cebu Taxi Driver stand for. Okay! i till you about. 15 yrs ago i working as a Taxi Driver in Cebu, but for now on I working in a tourist agency that i owne, it's a little deferent work than before it's all about my small car to big car now, it's all about driving in the road.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
