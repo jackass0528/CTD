@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CTD
 
 You can use the [editor on GitHub](https://github.com/jackass0528/CTD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
