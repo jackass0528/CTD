@@ -1,0 +1,47 @@
+body {
+background-color: rgb(156, 156, 156);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+font-size: 18px;
+
+}
+
+}
+
+h2 {
+font-size: 16px;
+
+}
+
+p {
+
+font-size: 14px;
+}
+
+    .city{ background: tomato;
+      color:white;
+      margin: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+
+  
+
+    .South{ background: Gray;
+      color:white;
+      margin: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+  
+  
+
+    .North{ background: Blue;
+      color:white;
+      margin: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
