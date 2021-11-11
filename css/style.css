@@ -22,7 +22,7 @@ grid-template-areas:
 .title {
   grid-area: title;
   text-align-last: center;
-  
+ 
 }
 
 .Header {
@@ -76,11 +76,11 @@ background-color: rgb(99, 95, 95);
 /*start navbar dropdown list*/
 .Navbar { 
  background-color: blue;
- height: 50px;
+ height: 60px;
  width: 100%;
 }
 label.logo{
-color: burlywood;
+color: white;
 font-size: 35px;
 line-height: 80px;
 padding: 0 100px;
