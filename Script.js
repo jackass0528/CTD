@@ -7,11 +7,3 @@ togglebutton.addEventListener('click', () => {
 
 })
 
-function myFunction() {
-    var x = document.getElementById("mylink");
-    if (x.className === "navbar-link") {
-      x.className += " responsive";
-    } else {
-      x.className = "mylink";
-    }
-  }
