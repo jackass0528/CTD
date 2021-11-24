@@ -7,10 +7,11 @@ togglebutton.addEventListener('click', () => {
 
 })
 
-$('.toggle-button').click(function () {
-    $('.navbar-links').toggle();
-}); 
-
-if ($(window).width() > 600) {
-    $('.navbar-links').show();
-}; 
+function myFunction() {
+    var x = document.getElementsByClassName("navbar-link");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
