@@ -7,11 +7,10 @@ togglebutton.addEventListener('click', () => {
 
 })
 
-function myFunction() {
-    var x = document.getElementById("mylink");
-    if (x.className === "navbar-link") {
-      x.className += " responsive";
-    } else {
-      x.className = "mylink";
-    }
-  }
+$('.toggle-button').click(function () {
+    $('.navbar-links').toggle();
+}); 
+
+if ($(window).width() > 600) {
+    $('.navbar-links').show();
+}; 
